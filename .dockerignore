@@ -1,0 +1,14 @@
+.git
+.gitignore
+.ipynb_checkpoints
+catboost_info
+__pycache__
+*.pyc
+.venv
+venv
+.pytest_cache
+tests
+retail.ipynb
+Online Retail.xlsx
+README.md
+Dockerfile

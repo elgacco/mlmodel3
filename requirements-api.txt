@@ -1,0 +1,4 @@
+pandas>=2.0
+catboost>=1.2
+fastapi>=0.110
+uvicorn>=0.29
