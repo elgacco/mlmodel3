@@ -1,0 +1,19 @@
+{
+  "features": [
+    "StockCode",
+    "lag_1",
+    "lag_2",
+    "lag_4",
+    "lag_8",
+    "roll_mean_4",
+    "roll_mean_8",
+    "roll_max_4",
+    "week_num",
+    "month_num",
+    "quarter_num",
+    "weeks_since_start"
+  ],
+  "cat_features": [
+    "StockCode"
+  ]
+}
